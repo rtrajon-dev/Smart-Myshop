@@ -18,9 +18,6 @@
 - 🌙 **Light/Dark Theme Toggle**  
   User-friendly UI that supports theme switching and saves the preference locally.
 
-- 🔀 **Sorting & Filtering**  
-  Sort products by price, rating, etc.
-
 - 📱 **Responsive UI**  
   Works well across different screen sizes.
 
