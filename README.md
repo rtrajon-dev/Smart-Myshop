@@ -42,13 +42,13 @@
 |---|---|---|
 | ![Favorites](lib/screenshots/favorites.png) | ![Cart](lib/screenshots/cart.png) | ![Theme](lib/screenshots/theme.png) |
 
-| Darkmode | Login | Signup |
+| Darkmode | Login | Setting |
 |---|---|---|
-| ![Favorites](lib/screenshots/darkmode.png) | ![Cart](lib/screenshots/login.png) | ![Theme](lib/screenshots/signup.png) |
+| ![Favorites](lib/screenshots/darkmode.png) | ![Cart](lib/screenshots/login.png) | ![Theme](lib/screenshots/setting.png) |
 
-| Setting |
+| Signup |
 |---|
-| ![Favorites](lib/screenshots/setting.png) |
+| ![Favorites](lib/screenshots/signup.png) |
 
 > 📁 Make sure to place your images in the `screenshots/` folder inside your repo.
 
