@@ -34,13 +34,21 @@
 
 ## 📸 Screenshots
 
-| Splash Screen | Home Page | Product Details |
+| Splash Screen | Home Page | Drawer |
 |---|---|---|
-| ![Splash](screenshots/splash.png) | ![Home](screenshots/home.png) | ![Details](screenshots/details.png) |
+| ![Splash](lib/screenshots/splash.png) | ![Home](lib/screenshots/home.png) | ![Details](lib/screenshots/drawer.png) |
 
 | Favorites | Cart | Theme Toggle |
 |---|---|---|
-| ![Favorites](screenshots/favorites.png) | ![Cart](screenshots/cart.png) | ![Theme](screenshots/theme.png) |
+| ![Favorites](lib/screenshots/favorites.png) | ![Cart](lib/screenshots/cart.png) | ![Theme](lib/screenshots/theme.png) |
+
+| Darkmode | Login | Signup |
+|---|---|---|
+| ![Favorites](lib/screenshots/darkmode.png) | ![Cart](lib/screenshots/login.png) | ![Theme](lib/screenshots/signup.png) |
+
+| Setting |
+|---|
+| ![Favorites](lib/screenshots/setting.png) |
 
 > 📁 Make sure to place your images in the `screenshots/` folder inside your repo.
 
